@@ -1,6 +1,40 @@
 .nav-menu{
     text-align: right;
 }
-.nav-spacing {
+.nav-spacing{
     margin-left: 10px;
+}
+.image-link{
+    text-decoration: none;
+}
+.table-spacing{
+    padding: 10px;
+}
+.header-alignment{
+    text-align: center;
+    margin: 0 0 80px;
+}
+.report-content{
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+}
+.centered-image{
+    display: block;
+    margin: 0 auto;
+}
+.wrapped-image{
+    float: left;
+    margin-right: 40px;
+}
+.quote{
+    font-style: italic;
+    font-size: 20px;
+}
+.quote-emphasis{
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
 }
